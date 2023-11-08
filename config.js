@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝕜𝕒𝕜𝕦𝕫𝕦🅇⃠⁩☬☬⃢⃟𝙃𝙞𝙙𝙖𝙣'
+global.botname = 'Kakuzu X HIDAN'
 global.premium = 'true'
-global.packname = '𝕜𝕒𝕜𝕦𝕫𝕦🅇⃠⁩☬☬⃢⃟𝙃𝙞𝙙𝙖𝙣'
+global.packname = 'Kakuzu X HIDAN'
 global.author = '@Asliguru' 
-global.menuvid = 'https://telegra.ph/file/6247d658bd2c6ea59d852.mp4'
+global.menuvid = 'https://telegra.ph/file/99402a0f1fe9ab4a2322e.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
